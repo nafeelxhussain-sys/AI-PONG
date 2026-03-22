@@ -74,7 +74,7 @@ pong-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pong-ai.git
+git clone https://github.com/nafeelxhussain-sys/AI-PONG/
 cd pong-ai
 ```
 
@@ -131,6 +131,7 @@ The agent learns to:
 * Track the ball
 * Position the paddle correctly
 * Improve rally length over time
+* Average winrate is 81%
 
 Training metrics include:
 
@@ -138,7 +139,9 @@ Training metrics include:
 * Average reward
 * Episode length
 
-*(Add plots or gameplay GIF here for better presentation)*
+## 🎮 Gameplay
+
+[Watch Gameplay](results/gameplay.mp4)
 
 ---
 
