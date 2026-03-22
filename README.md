@@ -141,6 +141,7 @@ Training metrics include:
 
 ## 🎮 Gameplay
 
+Right side agent
 [Watch Gameplay](results/gameplay.mp4)
 
 ---
